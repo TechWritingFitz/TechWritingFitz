@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TechWritingFitz
-- 👀 I’m interested in Technical Writing, full-stack coding (Python, Flask and React in particular) and product management
+- 👀 I’m interested in technical writing, full-stack coding (Python, Flask and React in particular) and product management, particularly in healthcare and med. tech contexts.
 - 💞️ I’m looking to collaborate on open source projects, to which I can contribute.
 - 📫 How to reach me: on GitHub, or thepitchprofessional@gmail.com
 
