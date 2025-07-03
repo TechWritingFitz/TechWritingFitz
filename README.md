@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TechWritingFitz
-- 👀 I’m interested in Technical Writing for software development
-- 🌱 I’m currently learning some technical writing languages, like asciidoc and markdown.
-- 💞️ I’m looking to collaborate on open source projects, to which I can contribute technical writing skills.  
+- 👀 I’m interested in Technical Writing, full-stack coding (Python, Flask and React in particular) and product management
+- 💞️ I’m looking to collaborate on open source projects, to which I can contribute.
 - 📫 How to reach me: on GitHub, or thepitchprofessional@gmail.com
 
 <!---
