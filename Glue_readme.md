@@ -32,7 +32,7 @@ The first step in Glue's creation was to find and retrieve our pre-existing cont
 
 2. that I could find and retrieve the content from the spreadsheet's tables using a Python script.
 
-I achieved both of these aims through successfully running the `SQL_IFUQueryBase_StringExtraction.py`` file.
+I achieved both of these aims through successfully running the `SQL_IFUQueryBase_StringExtraction.py` file.
 
 ### 2. Prove text extraction from pre-existing PDF corpus ###
 
@@ -40,7 +40,7 @@ Step 1 was useful as a proof of concept and confidence-building exercise. Howeve
 
 #### Iteration 1: Initial Text Extraction & Problem Identification ####
 
-**Action:** We began with a simple script using `page.get_text()`` to extract all text from a PDF page.
+**Action:** We began with a simple script using `page.get_text()` to extract all text from a PDF page.
 
 **Observation:** This successfully extracted the text characters but resulted in a jumbled, unordered block of content.
 
