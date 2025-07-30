@@ -2,7 +2,7 @@
 
 ## Overview ##
 
-This document serves as the business case and technical overview for Glue, a full-stack web application developed to centralize, automate and archive technical content relating to Instructions for Use documentation at LetsGetChecked.
+This document serves as the business case and technical overview for Glue, a full-stack web application developed to centralize, automate and archive technical content relating to Instructions for Use documentation at LetsGetChecked. Glue can be accessed here: https://glue-ifu-demo.onrender.com/. This demonstration page may take a moment to load initially as it's hosted on a free tier account from Render.com that goes to sleep when inactive. If you can spare ~30 seconds, you will then be able to use it as described in the documentation below.
 
 ## Business case for the tool's development ##
 
